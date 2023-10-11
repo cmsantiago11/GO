@@ -1,0 +1,8 @@
+Terminal
+go run _________ compila y ejecuta el archivo _
+go build _________ compila el acrchivo _
+
+
+script
+var nombreVariable tipoVariable		nombreVariable = nombre asignado a variable
+					tipoVariable = int, string, float64, bool
